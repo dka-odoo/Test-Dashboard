@@ -1,2 +1,2 @@
 This is test file
-This new 
+This new line
